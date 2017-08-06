@@ -13,14 +13,8 @@ body {
 
 .format1 {
   font-family: Titillium Web, sans-serif;
-  font-size: 700px;
   color: white;
   margin: 0 0 0 8%;
-}
-
-.format2 {
-  font-family: sans-serif;
-  text-align: center;
 }
 
 .thumbnail {
